@@ -34,9 +34,4 @@ $ git push -u origin <branch-name>
 
 ### Reach out
 
-[@sm0602:](https://github.com/sm0602)
-[![LinkedIn][2.2][2]
-
-[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
-
-[2]: https://www.linkedin.com/in/samiksha0602/
+Email: `samikshasami6295@gmail.com'
