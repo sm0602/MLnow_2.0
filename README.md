@@ -34,7 +34,6 @@ $ git push -u origin <branch-name>
 
 ### Reach out
 
-[Email:](samikshasami6295@gmail.com)
 [@sm0602:](https://github.com/sm0602)
 [![LinkedIn][2.2][2]
 
